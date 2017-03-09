@@ -1124,7 +1124,7 @@ a.post-nav-next:hover { background-image: url(images/icons/1x/next-c.png); }
 .post-content .wp-caption,
 .post-content pre {
 	line-height: 180%;
-	margin-bottom: 1.1em;
+	margin-bottom: 2px;
 	-ms-word-wrap: break-word;
 	word-wrap: break-word;
 }
